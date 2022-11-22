@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SplitTheBill</string>
+    <string name="btn_split_bill">Dividir Conta</string>
+    <string name="split">Dividir</string>
+    <string name="name">Nome</string>
+    <string name="product_name">Nome do Produto</string>
+    <string name="value">Valor</string>
+    <string name="monetary_value">R$ %1$d,%2$02d</string>
+    <string name="neg_monetary_value">R$ -%1$d,%2$02d</string>
+    <string name="save">Salvar</string>
+
+    <string name="add_participation">Adicionar Participação</string>
+    <string name="remove_participation">Remover Participação</string>
+    <string name="edit_participation">Editar Participação</string>
+
+    <string name="add_item">Adicionar Item</string>
+    <string name="remove_item">Remover Item</string>
+    <string name="edit_item">Editar Item</string>
+</resources>
